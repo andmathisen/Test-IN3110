@@ -1,1 +1,6 @@
-print("sss")
+print("HEI")
+print("SSSS")
+print("HEI")
+print("HEI")
+print("HEI")
+print("HEI")
